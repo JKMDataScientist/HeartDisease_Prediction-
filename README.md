@@ -65,8 +65,50 @@ ca: The number of major vessels (0-3)
 thal: A blood disorder called thalassemia (3 = normal; 6 = fixed defect; 7 = reversable defect)
 
 target: Heart disease (0 = no, 1 = yes)
+## Dataset:
+
+![data_set](https://user-images.githubusercontent.com/89099026/151878896-4d4d3bd0-fece-40ca-b840-4ed7a0a3ccc7.PNG)
+
+## Data types check:
+is it object ,float or int.
+
+![check data type](https://user-images.githubusercontent.com/89099026/151878976-2a88d54a-ec94-45b0-886a-9f7b34cfa53c.PNG)
+
+## Data Preparation:
+
+. Missing Value Treatment: There was no null value present in data set.
+
+![null value check](https://user-images.githubusercontent.com/89099026/151879024-c21823ee-e4dd-4ec1-8f76-db73f3b8de2d.PNG)
+
+## Describe the data:
+
+![describe dataset](https://user-images.githubusercontent.com/89099026/151879073-118a45b1-6e0d-453a-ae99-e9197ec32cd0.PNG)
+
+## outlier Treatment:
+
+Not Present any high outliers..
+
+![outlier check](https://user-images.githubusercontent.com/89099026/151879146-fc70c4c3-e9af-40cc-ac12-e9ace55fa901.PNG)
+
+
+## correlation check:
+
+not present any high correlated value-
+
+![corr](https://user-images.githubusercontent.com/89099026/151879213-ec0c667a-c3e9-4ad4-84f6-13599ff20f44.PNG)
+
+## scalling Normalization:
+
+![scalling](https://user-images.githubusercontent.com/89099026/151879262-3b204e60-9d46-4b81-8d30-f72bb2937095.PNG)
 
 ## I apply multiple model of machine Learnig and get best accuracy:
+
+.If:-
+1. train>test=overfit
+
+2. train<test=underfit
+
+3. train~=test=generalised
 
 i did same thing in each algoriyhm such as :
 
