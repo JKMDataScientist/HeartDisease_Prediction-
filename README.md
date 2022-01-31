@@ -82,4 +82,7 @@ ii. Built the model on train set and predict the values on test set
 
 ![multiple_model_accuracy](https://user-images.githubusercontent.com/89099026/151872705-4c5a53d5-14ff-403c-8bc2-fe6bdd84f589.jpg)
 
+## In Detail:-
+
+![all model accuracy in word](https://user-images.githubusercontent.com/89099026/151874476-1a13255f-4d26-445f-bf66-d19e1df923bb.PNG)
 
