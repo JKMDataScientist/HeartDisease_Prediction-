@@ -78,3 +78,8 @@ ii. Built the model on train set and predict the values on test set
  
 ## Best accuracy i got after applying multiple model is Adaboost:- Adaboost	for train 0.867769 and Test 0.852459
 
+## In Bar graph Visulation...
+
+![multiple_model_accuracy](https://user-images.githubusercontent.com/89099026/151872705-4c5a53d5-14ff-403c-8bc2-fe6bdd84f589.jpg)
+
+
