@@ -27,8 +27,11 @@ UCI Heart Disease Dataset (https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 We have to setup some methods/steps that we will be following to get our desired results:
 
 1.Exploratory Data Analysis
+
 2.About the models
+
 3.Comparing the model results
+
 4.Selection of the best model
 
 ## [F] Exploratory Data Analysis:
@@ -68,7 +71,9 @@ target: Heart disease (0 = no, 1 = yes)
 i did same thing in each algoriyhm such as :
 
 a. Built a simple model
+
 i. Divided the dataset in 80:20 ratio
+
 ii. Built the model on train set and predict the values on test set
  
 ## Best accuracy i got after applying multiple model is Adaboost:- Adaboost	for train 0.867769 and Test 0.852459
